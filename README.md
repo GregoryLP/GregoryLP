@@ -1,9 +1,21 @@
-# 👋 Hi, I’m @GregoryLP
-- 👀 I’m interested in to video games, web and Data Scientist. 
-- 🌱 I’m currently learning Unity C#, Python, Unreal Engine 5, C++ and data scientist.
-- 📫 How to reach me email : gregory332000@gmail.com
+  <h2>Hi, I'm Gregory Lombard--Paradis Welcome in my github </h2>
+  <br>I'm developer in DATA/IA Scientist at Paris Ynov Campus in Paris, France !</br>
+  <br>📫 Contactez-moi par mail : gregory332000@gmail.com
+  
+<h3>🔍 Where to find me</h3>
+<p align="center">
+  <a href="https://github.com/GregoryLP" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a> 
+  <a href="https://www.linkedin.com/in/gr%C3%A9gory-lombard-paradis-51b343168/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<!---
-GregoryLP/GregoryLP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3>📊 My Stats Account</h3>
+
+![](https://activity-graph.herokuapp.com/graph?username=GregoryLP&theme=react-dark)
+
+|Stats |Languages|
+|---|---|
+|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GregoryLP&theme=bear&count_private=true&card_width=8&include_all_commits=true&show_icons=true&hide=Issues)|![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GregoryLP&theme=bear&hide_border=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook)
