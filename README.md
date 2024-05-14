@@ -18,4 +18,4 @@
 
 |Stats |Languages|
 |---|---|
-|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GregoryLP&theme=bear&count_private=true&card_width=8&include_all_commits=true&show_icons=true&hide=Issues)|![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GregoryLP&theme=bear&hide_border=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook)
+|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GregoryLP&theme=bear&count_private=true&card_width=8&include_all_commits=true&show_icons=true&hide=Issues)|![GitHub Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=GregoryLP&theme=bear&hide_border=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook](https://github-readme-stats.vercel.app/api/top-langs/?username=GregoryLP&theme=bear&hide_border=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook))
